@@ -1,6 +1,6 @@
 # Hangman-Speech-Recognition
 
-This was a very fun experiment that I came up with while studying about NLTK(Natural Language ToolKit) and how it's used in the field of Machine Learning. 
+This was a very fun experiment that I came up with while studying about Speech to Text conversion and how it's used in the field of Machine Learning. 
 Almost every single one of us is aware of the [Hangman Game](https://www.considerable.com/entertainment/games/hangman/). Many versions of the game exist with implementations in python. This particular script is no exception, it is still, at its core, a hangman game... But with a twist!
 
 In this game you'll have to guess the phrase provided, not by typing, but by _**speaking**_!.
